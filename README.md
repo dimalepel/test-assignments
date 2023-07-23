@@ -15,3 +15,6 @@
 
 * [ООО Визутех Систем](https://visutechsystem.by/)
   * [Full-stack developer (PHP/JavaScript)](./tasks/140011072023.md)
+
+* [Центр Программного Обеспечения](https://softwarecenter.ru/)
+  * [Backend developer](./tasks/231323072023.md)
