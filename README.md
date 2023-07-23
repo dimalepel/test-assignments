@@ -13,6 +13,9 @@
 * [ООО SITE-ELITE Studio](https://st-lt.ru/)
   * [WEB разработчик](./tasks/224023072023.md)
 
+* ООО Авиор Медиа
+  * [Junior flutter](./tasks//234823072023.md)
+
 * [ООО Визутех Систем](https://visutechsystem.by/)
   * [Full-stack developer (PHP/JavaScript)](./tasks/140011072023.md)
 
