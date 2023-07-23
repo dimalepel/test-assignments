@@ -5,7 +5,7 @@
 # Тестовые задания в разные компании
 
 * [Hommler OU](https://hommler.de/)
-  * [Middle developer / PHP разработчик](./tasks/193305072023.md)
+  * [Middle developer / PHP разработчик](./tasks/193305072023.md)  
 
 * [СтилЛедиМакс, ЧП](https://slmax.by/)
   * [Junior/Middle Node.js (Nest) Backend Developer](./tasks/134911072023.md)
@@ -15,6 +15,9 @@
 
 * [ООО Визутех Систем](https://visutechsystem.by/)
   * [Full-stack developer (PHP/JavaScript)](./tasks/140011072023.md)
+
+* ООО Три Фаундэйшн
+  * [WordPress developer (Full Stack)](./tasks/233123072023.md)
 
 * [Центр Программного Обеспечения](https://softwarecenter.ru/)
   * [Backend developer](./tasks/231323072023.md)
