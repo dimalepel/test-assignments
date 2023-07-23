@@ -10,5 +10,8 @@
 * [СтилЛедиМакс, ЧП](https://slmax.by/)
   * [Junior/Middle Node.js (Nest) Backend Developer](./tasks/134911072023.md)
 
+* [ООО SITE-ELITE Studio](https://st-lt.ru/)
+  * [WEB разработчик](./tasks/224023072023.md)
+
 * [ООО Визутех Систем](https://visutechsystem.by/)
   * [Full-stack developer (PHP/JavaScript)](./tasks/140011072023.md)
